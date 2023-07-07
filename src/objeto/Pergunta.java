@@ -6,6 +6,7 @@ public class Pergunta {
     private boolean Perguntado;
     private int NivelPergunta;
 
+
     public Pergunta(int id, String texto, boolean perguntado, int Nivel) {
         Id = id;
         Texto = texto;
